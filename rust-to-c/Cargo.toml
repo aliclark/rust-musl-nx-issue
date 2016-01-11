@@ -1,11 +1,8 @@
 [package]
-name = "rust-to-c"
+name = "rust-to-c-nx-issue"
 version = "0.1.0"
-authors = ["Alex Crichton <alex@alexcrichton.com>"]
+authors = ["Ali Clark <ali@clark.gb.net>"]
 build = "build.rs"
-
-[dependencies]
-libc = "0.1"
 
 [build-dependencies]
 gcc = "0.3"
